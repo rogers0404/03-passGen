@@ -123,15 +123,32 @@ button[disabled] {
     font-size: 1rem;
     margin: 16px 0px 0px 0px;
     padding: 10px 15px;
+    background-color: rgb(10, 28, 189);   /*Changed background Color in mobil*/
   }
 
   #password {
     font-size: 1rem;
+    text-align: left;                       /*Added style to align the password to left*/
   }
+
+  .card-header h2 {
+    text-align: center;                     /*Added style to center the title h2*/
+  }
+
 }
 
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
+    background-color: rgb(10, 28, 189);   /*Changed background Color in mobil*/
+  }
+  
+  .card-header h2 {
+    text-align: center;                     /*Added style to center the title h2*/
+  }
+
+  #password {
+    font-size: 1rem;                        /*Added style to align the password to left*/
+    text-align: left;
   }
 }

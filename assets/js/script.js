@@ -183,7 +183,7 @@ function writePassword() {
 
   passwordText.value = password;
   //added alert
-  alert("Your Password is:\n" + password);
+  alert("Your Password is:\n" + password);        //Optional, statement it could be deleted
 
 }
 
