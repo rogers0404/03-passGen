@@ -39,6 +39,8 @@ Third Assignment in UCF Code Boot Camp
 
 8. Identation and comments in the script.js file.
 
+9. All branches marge into master branch
+
 
 
 Screenshots:
