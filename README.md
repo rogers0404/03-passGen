@@ -1,51 +1,70 @@
-# 03-passGen
+# Password Generator
 
-## 3rd Assignment UCF Boot Camp
+## Description 
 
-URLs
+An app where you can generate a password based on criteria presented to you. 
 
-Deployed Application: 
-    https://rogers0404.github.io/03-passGen/
-
-GitHub Repository:
-    https://github.com/rogers0404/03-passGen.git
-    
-    git@github.com:rogers0404/03-passGen.git 
+Password Generator is develop in Javascript, CSS and HTML
 
 
-Commits:
+## Table of Contents
 
-Third Assignment in UCF Code Boot Camp
-
-1. It was Created 3 branches to work independently from the master branch
-- feature/lenght
-- feature/css
-- feature/readme
-
-2. Each Branch correspond with a part of the assignment
-
-3. Defining variables with global scope, userChoice as a data structure to store the user choice and listChar as a object to have the inicial seed for al types of characters
-
-4. Alert to present the inicial information to the user and criterias
-
-5. Defining Funtions:
-- Function userIntro(), this function validates the entry of the user in order to match the criteria of the lenght of the password.
-- Function userSelection(), this function validates he entry of the user in order to match the criteria of the types of characters.
-- Development of generatePassword(), this function generate the password from the initial seed variable to another transitional variable call "str" and then to generate the password. 
-
-6. Adding styling to smaller screens. 
-
-7. Commits in GitHub according to each developing step for branch
-
-8. Identation and comments in the script.js file.
-
-9. All branches marge into master branch
+* [URLs](#urls)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#Contributing)
+* [License](#license)
+* [Test](#Test)
+* [Questions](#questions)
+* [Screenshots](#screenshots)
 
 
+## URLs
 
-Screenshots:
+* Deployed Application: 
+    - [https://rogers0404.github.io/03-passGen/](https://rogers0404.github.io/03-passGen/) (live)
 
-## Inicial Mock-up for the Assignment
+* GitHub Repository:
+    - [HTTPS:  https://github.com/rogers0404/03-passGen.git](https://github.com/rogers0404/03-passGen.git)
+    - [GIT: git@github.com:rogers0404/03-passGen.git](git@github.com:rogers0404/03-passGen.git)
+
+
+## Installation
+
+You need some packages to run this application, 
+
+- `git clone git@github.com:rogers0404/03-passGen.git        //clone the repository`
+- `Open index.html in a Browser`
+
+## Usage 
+
+None
+
+## Contributing
+
+* Rogers Ramirez, Github User: [rogers0404](http://github.com/rogers0404)
+
+
+## License
+
+Professional Porfolio with React is licensed under the
+
+![v1](https://img.shields.io/static/v1?label=License&message=None&color=inactive&&style=plastic)
+
+None
+
+## Test
+
+None
+
+## Questions
+
+If you have any questions about the application, you can check the documentation on my GitHub profile [https://github.com/rogers0404](https://github.com/rogers0404).
+
+for more information you can have a question via email [rogers.ramirez2008@gmail.com](rogers.ramirez2008@gmail.com)  .
+
+
+## Screenshots
 
 ![](./assets/images/03-javascript-homework-demo.png)
 
@@ -96,5 +115,3 @@ Screenshots:
 ## Screenshot 12
 
 ![](./assets/images/image12.png)
-
-
